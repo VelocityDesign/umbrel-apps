@@ -1,0 +1,14 @@
+manifestVersion: 1
+id: minetest-server
+category: Gaming
+name: Minetest Server
+version: "latest"
+tagline: Minetest is an open source voxel game engine with easy modding and game creation 
+description: >-
+  Minetest is an open source voxel game engine with easy modding and game creation.
+releaseNotes: >-
+  See https://dev.minetest.net/Changelog#5.5.0_.E2.86.92_5.6.0.
+developer: Minetest
+website: https://minetest.net/
+repo: https://github.com/minetest/minetest
+support: https://github.com/minetest/minetest/issues
